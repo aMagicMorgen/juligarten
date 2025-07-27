@@ -16,5 +16,9 @@ juligarten vs morgendark
 
 [один из вариантов сценария](https://github.com/aMagicMorgen/juligarten/blob/main/deepseek/12-%D0%A1%D1%86%D0%B5%D0%BD%D0%B0%D1%80%D0%B8%D0%B9-%D0%9D%D0%BE%D0%B2%D1%8B%D0%B9.md)
 
+## [материалы от deepseec здесь](https://github.com/aMagicMorgen/juligarten/tree/main/deepseek)
+
+ ## [материалы от perplexity здесь](https://github.com/aMagicMorgen/juligarten/tree/main/perplexity)
+
 # [Все материалы здесь](https://github.com/aMagicMorgen/juligarten)
 
